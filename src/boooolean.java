@@ -10,9 +10,9 @@ public class boooolean {
         System.out.println(beinhaltet(name));
         System.out.println(bothTrue(name));
     }
-    //Methode die länger als 20 Zeichen ist
+    //Methode die länger als 30 Zeichen ist
     public static boolean laenge(String name) {
-        return name.length() > 20;
+        return name.length() > 30;
     }
     //Methode die Zeichenfolge "fancy" enthält
     public static boolean beinhaltet(String name) {
